@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Классические сырники",
+    "description": "Творог, яйцо, мука. Вес: ~250 г.",
+    "total_weight_grams": 250,
+    "total_calories": 577,
+    "macros_per_100g": { "p": 12.5, "f": 8.2, "c": 15.4 },
+    "ingredients": [
+      { "name": "Творог 5% (200г)", "calories": 242 },
+      { "name": "Яйцо (1 шт)", "calories": 155 },
+      { "name": "Мука (2 ст.л.)", "calories": 60 },
+      { "name": "Сахар (1 ст.л.)", "calories": 50 },
+      { "name": "Масло (для жарки)", "calories": 70 }
+    ]
+  },
+  {
+    "name": "Паста Карбонара",
+    "description": "Спагетти, бекон, пармезан. Вес: ~350 г.",
+    "total_weight_grams": 350,
+    "total_calories": 790,
+    "macros_per_100g": { "p": 9.8, "f": 12.5, "c": 18.2 },
+    "ingredients": [
+      { "name": "Макароны (200г)", "calories": 250 },
+      { "name": "Бекон (50г)", "calories": 220 },
+      { "name": "Пармезан (30г)", "calories": 120 },
+      { "name": "Яйцо (1 шт)", "calories": 155 },
+      { "name": "Масло оливковое", "calories": 45 }
+    ]
+  },
+  {
+    "name": "Борщ украинский",
+    "description": "С говядиной и сметаной. Вес: ~450 г.",
+    "total_weight_grams": 450,
+    "total_calories": 460,
+    "macros_per_100g": { "p": 6.5, "f": 5.2, "c": 8.1 },
+    "ingredients": [
+      { "name": "Говядина (80г)", "calories": 168 },
+      { "name": "Овощи и зажарка", "calories": 262 },
+      { "name": "Сметана 15%", "calories": 30 }
+    ]
+  },
+  {
+    "name": "Салат Цезарь с курицей",
+    "description": "Курица, айсберг, сухарики. Вес: ~300 г.",
+    "total_weight_grams": 300,
+    "total_calories": 461,
+    "macros_per_100g": { "p": 14.2, "f": 10.8, "c": 9.5 },
+    "ingredients": [
+      { "name": "Куриная грудка", "calories": 186 },
+      { "name": "Салат и соус", "calories": 195 },
+      { "name": "Сухарики и сыр", "calories": 80 }
+    ]
+  },
+  {
+    "name": "Греческий салат",
+    "description": "Овощи, фета, маслины. Вес: ~250 г.",
+    "total_weight_grams": 250,
+    "total_calories": 415,
+    "macros_per_100g": { "p": 5.5, "f": 15.2, "c": 6.1 },
+    "ingredients": [
+      { "name": "Овощи", "calories": 70 },
+      { "name": "Фета и маслины", "calories": 210 },
+      { "name": "Масло оливковое", "calories": 135 }
+    ]
+  },
+  {
+    "name": "Здоровый завтрак (Овсянка)",
+    "description": "Овсянка с бананом и мёдом. Вес: ~300 г.",
+    "total_weight_grams": 300,
+    "total_calories": 389,
+    "macros_per_100g": { "p": 4.8, "f": 5.1, "c": 22.5 },
+    "ingredients": [
+      { "name": "Овсянка на молоке", "calories": 180 },
+      { "name": "Банан и мёд", "calories": 121 },
+      { "name": "Миндаль", "calories": 88 }
+    ]
+  }
+]
