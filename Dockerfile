@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y python3 python3-pip git && rm -rf /var/
 
 WORKDIR /app
 
-RUN git clone https://github.com/ВАШ-ЛОГИН/calorie_tracker.git .
+RUN git clone https://github.com/nikitayashin20019-ai/SmartCalorie_KP.git .
 
 RUN pip3 install --break-system-packages -r requirements.txt
 
